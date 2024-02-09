@@ -1,37 +1,37 @@
 [ 
   {
     "name":"يوتـــوب",
-    "icon":"https://raw.githubusercontent.com/cabdellah/Rca/main/social/y.svg",
+    "icon":"https://raw.githubusercontent.com/AppNetwork/Rca/main/social/y.svg",
     "url":"https://www.youtube.com"
   },
   {
     "name":"تيك تـــوك",
-    "icon":"https://raw.githubusercontent.com/cabdellah/Rca/main/social/t.svg",
+    "icon":"https://raw.githubusercontent.com/AppNetwork/Rca/main/social/t.svg",
     "url":"https://www.tiktok.com"
   },
   {
     "name":"فيسبـــوك",
-    "icon":"https://raw.githubusercontent.com/cabdellah/Rca/main/social/f.svg",
+    "icon":"https://raw.githubusercontent.com/AppNetwork/Rca/main/social/f.svg",
     "url":"https://www.facebook.com"
   },
   {
     "name":"تويتـر X",
-    "icon":"https://raw.githubusercontent.com/cabdellah/Rca/main/social/x.svg",
+    "icon":"https://raw.githubusercontent.com/AppNetwork/Rca/main/social/x.svg",
     "url":"https://twitter.com"
   },
   {
     "name":"انستقــرام",
-    "icon":"https://raw.githubusercontent.com/cabdellah/Rca/main/social/i.svg",
+    "icon":"https://raw.githubusercontent.com/AppNetwork/Rca/main/social/i.svg",
     "url":"https://www.instagram.com"
   },
   {
     "name":"بلاي ستور",
-    "icon":"https://raw.githubusercontent.com/cabdellah/Rca/main/social/s.svg",
+    "icon":"https://raw.githubusercontent.com/AppNetwork/Rca/main/social/s.svg",
     "url":"https://play.google.com/store/apps/dev?id=7565993010545143304"
   },
   {
     "name":"بنتـــرست",
-    "icon":"https://raw.githubusercontent.com/cabdellah/Rca/main/social/p.svg",
+    "icon":"https://raw.githubusercontent.com/AppNetwork/Rca/main/social/p.svg",
     "url":"https://www.pinterest.com"
   }
 ]
